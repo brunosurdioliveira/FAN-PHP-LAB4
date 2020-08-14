@@ -1,0 +1,40 @@
+#logo {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    margin: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #ff0000;
+    letter-spacing: 3px;
+  }
+
+  path {
+    color: #ff0000;
+  }
+
+  .custom-control-label {
+    color: white;
+  }
+
+  .custom-select, .custom-select-lg, .mb-3 {
+    text-align-last: center;
+  }
+
+  .tips {
+    font-family: 'Questrial', sans-serif;
+    color: white;
+    background-color: RGB(64,64,64,0.5);
+  }
+
+  body {
+    width: 100%;
+    text-align: center;
+    background-image: url("resources/backgroundcandy.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .form-row>.col,
+  .form-row>[class*=col-] {
+    padding-right: 5px;
+    padding-left: 40px;
+  }
